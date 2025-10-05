@@ -1,10 +1,10 @@
 # Ciencia-de-Datos
 
 
-<h1>Introducción al Análisis de Rendimiento Estudiantil<h1/>
+<h1>Introducción al Análisis de Rendimiento Estudiantil</h1>
 Este proyecto se centra en el análisis exploratorio de datos (EDA) del dataset de Rendimiento Estudiantil, que contiene información demográfica, social, familiar y académica de estudiantes de secundaria. El objetivo principal de este análisis es identificar los factores clave no académicos que influyen en las calificaciones finales de los estudiantes.
 
-<h1>¿De qué Trata el DataFrame?<h1/>
+<h1>¿De qué Trata el DataFrame?</h1>
 El dataset consta de 395 observaciones (estudiantes) y 33 variables, abarcando tres áreas principales:
 
 Rendimiento Académico: Calificaciones de tres períodos (G1, G2, G3) y el historial de fracasos (failures).
@@ -13,7 +13,7 @@ Entorno Familiar y Social: Variables como el nivel educativo de los padres (Medu
 
 Hábitos de Estudio y Recursos: Tiempo de estudio semanal (studytime), apoyo escolar (schoolsup) y acceso a internet (internet).
 
-<h1>Objetivo del Análisis<h1/>
+<h1>Objetivo del Análisis</h1>
 El objetivo de este EDA es doble:
 
 Diagnóstico y Preparación de Datos: Realizar un proceso de limpieza y depuración aplicando técnicas como IQR y Z-Score para identificar y tratar valores atípicos (especialmente en variables críticas como absences), asegurando que el dataset esté robusto y listo para el modelado.
