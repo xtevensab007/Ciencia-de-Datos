@@ -37,5 +37,5 @@ En resumen, buscamos transformar los datos brutos en información útil que pued
 ├── proyecto_aula  <br>
 ....├── Entrega 1 ccia de datos.ipynb <br>
 ├── recursos <br>
-└── sesiones_practicas    	# Archivo de entrenamiento
+└── sesiones_practicas <br>
 └── README
