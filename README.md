@@ -1,7 +1,9 @@
 # Ciencia-de-Datos
+<h1>Autor:</h1>
+Steven Alipio Berrio - 1036661504
 
+<h1>TITULO :Introducción al Análisis de Rendimiento Estudiantil</h1>
 
-<h1>Introducción al Análisis de Rendimiento Estudiantil</h1>
 Este proyecto se centra en el análisis exploratorio de datos (EDA) del dataset de Rendimiento Estudiantil, que contiene información demográfica, social, familiar y académica de estudiantes de secundaria. El objetivo principal de este análisis es identificar los factores clave no académicos que influyen en las calificaciones finales de los estudiantes.
 
 <h1>¿De qué Trata el DataFrame?</h1>
@@ -25,3 +27,14 @@ Descubrimiento de Patrones: Utilizar visualizaciones y estadísticos para determ
 ¿El acceso a internet (internet) o el tiempo de estudio (studytime) genera una diferencia significativa en el rendimiento?
 
 En resumen, buscamos transformar los datos brutos en información útil que pueda usarse para guiar intervenciones educativas y predecir el éxito o fracaso de los estudiantes.
+
+<h1>Distribucion del Repositorio</h1>
+
+├── Articulo <br>
+├── Datos <br>
+    ├── student-mat.csv <br>
+    ├── student_performance_DEPURADO.csv <br>
+├── proyecto_aula  <br>
+    ├── Entrega 1 ccia de datos.ipynb <br>
+├── recursos <br>
+└── sesiones_practicas    	# Archivo de entrenamiento
