@@ -35,9 +35,9 @@ En resumen, buscamos transformar los datos brutos en información útil que pued
 ├── Articulo <br>
 ├── Datos <br>
 ....├── student-mat.csv <br>
-....├── student_performance_DEPURADO.csv <br>
+....├── student_performance_TRANSFORMADO.csv <br>
 ├── proyecto_aula  <br>
-....├── Entrega 1 ccia de datos.ipynb <br>
+....├── Entrega_1_steven_alipio_berrio.ipynb <br>
 ├── recursos <br>
 └── sesiones_practicas <br>
 └── README
