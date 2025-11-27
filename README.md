@@ -38,6 +38,7 @@ En resumen, buscamos transformar los datos brutos en información útil que pued
 ....├── student_performance_TRANSFORMADO.csv <br>
 ├── proyecto_aula  <br>
 ....├── Entrega_1_steven_alipio_berrio.ipynb <br>
+....├── Entrega_final_steven_alipio_berrio.ipynb <br>
 ├── recursos <br>
 └── sesiones_practicas <br>
 └── README
